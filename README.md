@@ -3,6 +3,4 @@ an app to wish my friend on his birthday
 
 it's an android app you can simply install it and run it.
 
-      ```Some Screenshots```
-      
-      
+      Screenshots are also available in the main branch
